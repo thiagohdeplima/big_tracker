@@ -4,7 +4,7 @@ The Big Tracker will be a general purpose geospatial and distribuited server app
 
 ## Data Model
 
-Big Tracker represents all data using GeoJSON. For more details, read [GeoJSON](https://tools.ietf.org/html/rfc7946)
+Big Tracker represents all data using GeoJSON. For more details, read [RFC7946](https://tools.ietf.org/html/rfc7946)
 
 ## Distribuited System
 
